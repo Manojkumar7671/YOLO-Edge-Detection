@@ -1,0 +1,722 @@
+[
+ {
+  "frame_id": 1,
+  "mode": "edge",
+  "server_arrival_ms": 45.414,
+  "edge_latency_ms": 362.834,
+  "total_latency_ms": 408.249,
+  "count": 1,
+  "image_bytes": 49760,
+  "payload_bytes": 326,
+  "timestamp": 1787298861.771297,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.364
+   }
+  ]
+ },
+ {
+  "frame_id": 2,
+  "mode": "edge",
+  "server_arrival_ms": 2.994,
+  "edge_latency_ms": 278.738,
+  "total_latency_ms": 281.732,
+  "count": 1,
+  "image_bytes": 55450,
+  "payload_bytes": 326,
+  "timestamp": 1787298862.1007736,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.375
+   }
+  ]
+ },
+ {
+  "frame_id": 3,
+  "mode": "edge",
+  "server_arrival_ms": 2.854,
+  "edge_latency_ms": 277.986,
+  "total_latency_ms": 280.841,
+  "count": 1,
+  "image_bytes": 56113,
+  "payload_bytes": 328,
+  "timestamp": 1787298862.386039,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.377
+   }
+  ]
+ },
+ {
+  "frame_id": 4,
+  "mode": "edge",
+  "server_arrival_ms": 2.599,
+  "edge_latency_ms": 269.605,
+  "total_latency_ms": 272.204,
+  "count": 1,
+  "image_bytes": 56238,
+  "payload_bytes": 330,
+  "timestamp": 1787298862.6624603,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.375
+   }
+  ]
+ },
+ {
+  "frame_id": 5,
+  "mode": "edge",
+  "server_arrival_ms": 2.927,
+  "edge_latency_ms": 374.506,
+  "total_latency_ms": 377.433,
+  "count": 1,
+  "image_bytes": 56241,
+  "payload_bytes": 330,
+  "timestamp": 1787298863.041058,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.374
+   }
+  ]
+ },
+ {
+  "frame_id": 6,
+  "mode": "edge",
+  "server_arrival_ms": 3.124,
+  "edge_latency_ms": 319.543,
+  "total_latency_ms": 322.667,
+  "count": 1,
+  "image_bytes": 56204,
+  "payload_bytes": 330,
+  "timestamp": 1787298863.3687963,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.374
+   }
+  ]
+ },
+ {
+  "frame_id": 7,
+  "mode": "edge",
+  "server_arrival_ms": 2.539,
+  "edge_latency_ms": 286.179,
+  "total_latency_ms": 288.719,
+  "count": 1,
+  "image_bytes": 56208,
+  "payload_bytes": 327,
+  "timestamp": 1787298863.662405,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.374
+   }
+  ]
+ },
+ {
+  "frame_id": 8,
+  "mode": "edge",
+  "server_arrival_ms": 2.732,
+  "edge_latency_ms": 299.295,
+  "total_latency_ms": 302.026,
+  "count": 1,
+  "image_bytes": 56220,
+  "payload_bytes": 330,
+  "timestamp": 1787298863.965653,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.374
+   }
+  ]
+ },
+ {
+  "frame_id": 9,
+  "mode": "edge",
+  "server_arrival_ms": 2.679,
+  "edge_latency_ms": 260.564,
+  "total_latency_ms": 263.243,
+  "count": 1,
+  "image_bytes": 66337,
+  "payload_bytes": 327,
+  "timestamp": 1787298864.2304718,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.325
+   }
+  ]
+ },
+ {
+  "frame_id": 10,
+  "mode": "edge",
+  "server_arrival_ms": 2.671,
+  "edge_latency_ms": 304.442,
+  "total_latency_ms": 307.113,
+  "count": 1,
+  "image_bytes": 66416,
+  "payload_bytes": 326,
+  "timestamp": 1787298864.5420363,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.322
+   }
+  ]
+ },
+ {
+  "frame_id": 11,
+  "mode": "edge",
+  "server_arrival_ms": 3.058,
+  "edge_latency_ms": 280.871,
+  "total_latency_ms": 283.929,
+  "count": 1,
+  "image_bytes": 66443,
+  "payload_bytes": 327,
+  "timestamp": 1787298864.830068,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.323
+   }
+  ]
+ },
+ {
+  "frame_id": 12,
+  "mode": "edge",
+  "server_arrival_ms": 2.624,
+  "edge_latency_ms": 288.442,
+  "total_latency_ms": 291.066,
+  "count": 1,
+  "image_bytes": 66427,
+  "payload_bytes": 327,
+  "timestamp": 1787298865.123206,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.324
+   }
+  ]
+ },
+ {
+  "frame_id": 13,
+  "mode": "edge",
+  "server_arrival_ms": 2.814,
+  "edge_latency_ms": 308.417,
+  "total_latency_ms": 311.231,
+  "count": 1,
+  "image_bytes": 67340,
+  "payload_bytes": 329,
+  "timestamp": 1787298865.438349,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.315
+   }
+  ]
+ },
+ {
+  "frame_id": 14,
+  "mode": "edge",
+  "server_arrival_ms": 2.601,
+  "edge_latency_ms": 309.827,
+  "total_latency_ms": 312.428,
+  "count": 1,
+  "image_bytes": 67430,
+  "payload_bytes": 330,
+  "timestamp": 1787298865.7525337,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.321
+   }
+  ]
+ },
+ {
+  "frame_id": 15,
+  "mode": "edge",
+  "server_arrival_ms": 2.582,
+  "edge_latency_ms": 319.373,
+  "total_latency_ms": 321.955,
+  "count": 1,
+  "image_bytes": 67404,
+  "payload_bytes": 327,
+  "timestamp": 1787298866.0793025,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.319
+   }
+  ]
+ },
+ {
+  "frame_id": 16,
+  "mode": "edge",
+  "server_arrival_ms": 2.694,
+  "edge_latency_ms": 285.785,
+  "total_latency_ms": 288.48,
+  "count": 1,
+  "image_bytes": 67441,
+  "payload_bytes": 328,
+  "timestamp": 1787298866.3719513,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.321
+   }
+  ]
+ },
+ {
+  "frame_id": 17,
+  "mode": "edge",
+  "server_arrival_ms": 2.591,
+  "edge_latency_ms": 291.695,
+  "total_latency_ms": 294.286,
+  "count": 0,
+  "image_bytes": 64984,
+  "payload_bytes": 175,
+  "timestamp": 1787298866.6709177,
+  "detections": []
+ },
+ {
+  "frame_id": 18,
+  "mode": "edge",
+  "server_arrival_ms": 2.592,
+  "edge_latency_ms": 283.035,
+  "total_latency_ms": 285.626,
+  "count": 0,
+  "image_bytes": 65307,
+  "payload_bytes": 175,
+  "timestamp": 1787298866.9603643,
+  "detections": []
+ },
+ {
+  "frame_id": 19,
+  "mode": "edge",
+  "server_arrival_ms": 2.681,
+  "edge_latency_ms": 286.148,
+  "total_latency_ms": 288.829,
+  "count": 0,
+  "image_bytes": 65464,
+  "payload_bytes": 174,
+  "timestamp": 1787298867.252936,
+  "detections": []
+ },
+ {
+  "frame_id": 20,
+  "mode": "edge",
+  "server_arrival_ms": 2.709,
+  "edge_latency_ms": 265.923,
+  "total_latency_ms": 268.632,
+  "count": 0,
+  "image_bytes": 65418,
+  "payload_bytes": 176,
+  "timestamp": 1787298867.5252419,
+  "detections": []
+ },
+ {
+  "frame_id": 21,
+  "mode": "edge",
+  "server_arrival_ms": 2.578,
+  "edge_latency_ms": 266.011,
+  "total_latency_ms": 268.59,
+  "count": 0,
+  "image_bytes": 65422,
+  "payload_bytes": 175,
+  "timestamp": 1787298867.795478,
+  "detections": []
+ },
+ {
+  "frame_id": 22,
+  "mode": "edge",
+  "server_arrival_ms": 2.535,
+  "edge_latency_ms": 277.141,
+  "total_latency_ms": 279.676,
+  "count": 0,
+  "image_bytes": 65390,
+  "payload_bytes": 174,
+  "timestamp": 1787298868.0793438,
+  "detections": []
+ },
+ {
+  "frame_id": 23,
+  "mode": "edge",
+  "server_arrival_ms": 2.765,
+  "edge_latency_ms": 266.781,
+  "total_latency_ms": 269.546,
+  "count": 0,
+  "image_bytes": 65450,
+  "payload_bytes": 175,
+  "timestamp": 1787298868.3529623,
+  "detections": []
+ },
+ {
+  "frame_id": 24,
+  "mode": "edge",
+  "server_arrival_ms": 2.782,
+  "edge_latency_ms": 254.155,
+  "total_latency_ms": 256.937,
+  "count": 0,
+  "image_bytes": 65441,
+  "payload_bytes": 176,
+  "timestamp": 1787298868.6140113,
+  "detections": []
+ },
+ {
+  "frame_id": 25,
+  "mode": "edge",
+  "server_arrival_ms": 2.673,
+  "edge_latency_ms": 250.01,
+  "total_latency_ms": 252.683,
+  "count": 1,
+  "image_bytes": 63279,
+  "payload_bytes": 317,
+  "timestamp": 1787298868.8708944,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.495
+   }
+  ]
+ },
+ {
+  "frame_id": 26,
+  "mode": "edge",
+  "server_arrival_ms": 2.629,
+  "edge_latency_ms": 253.768,
+  "total_latency_ms": 256.397,
+  "count": 1,
+  "image_bytes": 63401,
+  "payload_bytes": 313,
+  "timestamp": 1787298869.1313796,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.495
+   }
+  ]
+ },
+ {
+  "frame_id": 27,
+  "mode": "edge",
+  "server_arrival_ms": 2.609,
+  "edge_latency_ms": 250.684,
+  "total_latency_ms": 253.293,
+  "count": 1,
+  "image_bytes": 63491,
+  "payload_bytes": 313,
+  "timestamp": 1787298869.3888729,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.495
+   }
+  ]
+ },
+ {
+  "frame_id": 28,
+  "mode": "edge",
+  "server_arrival_ms": 2.647,
+  "edge_latency_ms": 248.522,
+  "total_latency_ms": 251.169,
+  "count": 1,
+  "image_bytes": 63476,
+  "payload_bytes": 313,
+  "timestamp": 1787298869.6414354,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.495
+   }
+  ]
+ },
+ {
+  "frame_id": 29,
+  "mode": "edge",
+  "server_arrival_ms": 2.659,
+  "edge_latency_ms": 253.093,
+  "total_latency_ms": 255.752,
+  "count": 1,
+  "image_bytes": 63435,
+  "payload_bytes": 313,
+  "timestamp": 1787298869.9012403,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.495
+   }
+  ]
+ },
+ {
+  "frame_id": 30,
+  "mode": "edge",
+  "server_arrival_ms": 2.748,
+  "edge_latency_ms": 268.168,
+  "total_latency_ms": 270.915,
+  "count": 1,
+  "image_bytes": 63428,
+  "payload_bytes": 311,
+  "timestamp": 1787298870.176131,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.495
+   }
+  ]
+ },
+ {
+  "frame_id": 31,
+  "mode": "edge",
+  "server_arrival_ms": 2.704,
+  "edge_latency_ms": 270.906,
+  "total_latency_ms": 273.61,
+  "count": 1,
+  "image_bytes": 63435,
+  "payload_bytes": 312,
+  "timestamp": 1787298870.4537513,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.495
+   }
+  ]
+ },
+ {
+  "frame_id": 32,
+  "mode": "edge",
+  "server_arrival_ms": 2.73,
+  "edge_latency_ms": 263.122,
+  "total_latency_ms": 265.851,
+  "count": 1,
+  "image_bytes": 63428,
+  "payload_bytes": 311,
+  "timestamp": 1787298870.720984,
+  "detections": [
+   {
+    "cls": "car",
+    "conf": 0.495
+   }
+  ]
+ },
+ {
+  "frame_id": 33,
+  "mode": "edge",
+  "server_arrival_ms": 2.73,
+  "edge_latency_ms": 255.13,
+  "total_latency_ms": 257.86,
+  "count": 0,
+  "image_bytes": 62157,
+  "payload_bytes": 175,
+  "timestamp": 1787298870.980213,
+  "detections": []
+ },
+ {
+  "frame_id": 34,
+  "mode": "edge",
+  "server_arrival_ms": 2.617,
+  "edge_latency_ms": 260.472,
+  "total_latency_ms": 263.089,
+  "count": 0,
+  "image_bytes": 62206,
+  "payload_bytes": 176,
+  "timestamp": 1787298871.2474542,
+  "detections": []
+ },
+ {
+  "frame_id": 35,
+  "mode": "edge",
+  "server_arrival_ms": 2.592,
+  "edge_latency_ms": 260.524,
+  "total_latency_ms": 263.117,
+  "count": 0,
+  "image_bytes": 62261,
+  "payload_bytes": 174,
+  "timestamp": 1787298871.514904,
+  "detections": []
+ },
+ {
+  "frame_id": 36,
+  "mode": "edge",
+  "server_arrival_ms": 2.489,
+  "edge_latency_ms": 279.195,
+  "total_latency_ms": 281.684,
+  "count": 0,
+  "image_bytes": 62258,
+  "payload_bytes": 176,
+  "timestamp": 1787298871.7980323,
+  "detections": []
+ },
+ {
+  "frame_id": 37,
+  "mode": "edge",
+  "server_arrival_ms": 2.635,
+  "edge_latency_ms": 268.589,
+  "total_latency_ms": 271.224,
+  "count": 0,
+  "image_bytes": 62022,
+  "payload_bytes": 175,
+  "timestamp": 1787298872.0729733,
+  "detections": []
+ },
+ {
+  "frame_id": 38,
+  "mode": "edge",
+  "server_arrival_ms": 2.702,
+  "edge_latency_ms": 282.962,
+  "total_latency_ms": 285.664,
+  "count": 0,
+  "image_bytes": 62168,
+  "payload_bytes": 175,
+  "timestamp": 1787298872.3599784,
+  "detections": []
+ },
+ {
+  "frame_id": 39,
+  "mode": "edge",
+  "server_arrival_ms": 2.582,
+  "edge_latency_ms": 256.826,
+  "total_latency_ms": 259.408,
+  "count": 0,
+  "image_bytes": 62275,
+  "payload_bytes": 175,
+  "timestamp": 1787298872.6235502,
+  "detections": []
+ },
+ {
+  "frame_id": 40,
+  "mode": "edge",
+  "server_arrival_ms": 2.661,
+  "edge_latency_ms": 268.71,
+  "total_latency_ms": 271.371,
+  "count": 0,
+  "image_bytes": 62193,
+  "payload_bytes": 174,
+  "timestamp": 1787298872.898871,
+  "detections": []
+ },
+ {
+  "frame_id": 41,
+  "mode": "edge",
+  "server_arrival_ms": 2.577,
+  "edge_latency_ms": 276.484,
+  "total_latency_ms": 279.06,
+  "count": 0,
+  "image_bytes": 37343,
+  "payload_bytes": 173,
+  "timestamp": 1787298873.1818,
+  "detections": []
+ },
+ {
+  "frame_id": 42,
+  "mode": "edge",
+  "server_arrival_ms": 2.526,
+  "edge_latency_ms": 263.599,
+  "total_latency_ms": 266.125,
+  "count": 0,
+  "image_bytes": 37263,
+  "payload_bytes": 176,
+  "timestamp": 1787298873.4517553,
+  "detections": []
+ },
+ {
+  "frame_id": 43,
+  "mode": "edge",
+  "server_arrival_ms": 2.466,
+  "edge_latency_ms": 249.611,
+  "total_latency_ms": 252.077,
+  "count": 0,
+  "image_bytes": 37289,
+  "payload_bytes": 176,
+  "timestamp": 1787298873.7079287,
+  "detections": []
+ },
+ {
+  "frame_id": 44,
+  "mode": "edge",
+  "server_arrival_ms": 2.456,
+  "edge_latency_ms": 253.952,
+  "total_latency_ms": 256.408,
+  "count": 0,
+  "image_bytes": 37279,
+  "payload_bytes": 176,
+  "timestamp": 1787298873.9684153,
+  "detections": []
+ },
+ {
+  "frame_id": 45,
+  "mode": "edge",
+  "server_arrival_ms": 2.489,
+  "edge_latency_ms": 252.164,
+  "total_latency_ms": 254.652,
+  "count": 0,
+  "image_bytes": 37274,
+  "payload_bytes": 175,
+  "timestamp": 1787298874.2268314,
+  "detections": []
+ },
+ {
+  "frame_id": 46,
+  "mode": "edge",
+  "server_arrival_ms": 2.511,
+  "edge_latency_ms": 252.032,
+  "total_latency_ms": 254.543,
+  "count": 0,
+  "image_bytes": 37278,
+  "payload_bytes": 175,
+  "timestamp": 1787298874.4851332,
+  "detections": []
+ },
+ {
+  "frame_id": 47,
+  "mode": "edge",
+  "server_arrival_ms": 2.517,
+  "edge_latency_ms": 253.822,
+  "total_latency_ms": 256.34,
+  "count": 0,
+  "image_bytes": 37281,
+  "payload_bytes": 176,
+  "timestamp": 1787298874.7452729,
+  "detections": []
+ },
+ {
+  "frame_id": 48,
+  "mode": "edge",
+  "server_arrival_ms": 2.408,
+  "edge_latency_ms": 248.112,
+  "total_latency_ms": 250.52,
+  "count": 0,
+  "image_bytes": 37272,
+  "payload_bytes": 176,
+  "timestamp": 1787298874.9997864,
+  "detections": []
+ },
+ {
+  "frame_id": 49,
+  "mode": "edge",
+  "server_arrival_ms": 2.638,
+  "edge_latency_ms": 253.305,
+  "total_latency_ms": 255.943,
+  "count": 0,
+  "image_bytes": 77401,
+  "payload_bytes": 175,
+  "timestamp": 1787298875.2596183,
+  "detections": []
+ },
+ {
+  "frame_id": 50,
+  "mode": "edge",
+  "server_arrival_ms": 2.519,
+  "edge_latency_ms": 249.286,
+  "total_latency_ms": 251.804,
+  "count": 0,
+  "image_bytes": 77529,
+  "payload_bytes": 174,
+  "timestamp": 1787298875.515689,
+  "detections": []
+ }
+]
