@@ -5,6 +5,16 @@ A final-year project that fine-tunes **YOLOv7** for Indian traffic vehicle detec
 pipeline (inference on the device, tiny JSON reports to the cloud) against a
 **cloud-only** pipeline (raw images uploaded and processed in the cloud).
 
+## Visuals
+
+### Project UI (Mockup)
+![UI Mockup](assets/ui_mockup.png)
+
+### Real-Time Detection Samples
+| Detection 1 | Detection 2 | Detection 3 |
+| :---: | :---: | :---: |
+| ![Detection 1](assets/detection_1.jpg) | ![Detection 2](assets/detection_2.jpg) | ![Detection 3](assets/detection_3.jpg) |
+
 ## Architecture
 
 ```
